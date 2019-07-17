@@ -1,0 +1,9 @@
+#pragma once
+//‰æ–Ê‚Ì‰¡
+#define GAME_SCREEN_WIDTH 640
+//‰æ–Ê‚Ìc
+#define GAME_SCREEN_HEIGHT 480
+//‰æ–Ê‚Ì‰¡‚Ì”¼•ª
+#define GAME_SCREEN_WIDTH_HALF (GAME_SCREEN_WIDTH/2)
+//‰æ–Ê‚Ìc‚Ì”¼•ª
+#define GAME_SCREEN_HEIGHT_HALF (GAME_SCREEN_HEIGHT/2)
